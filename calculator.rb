@@ -2,7 +2,7 @@ def greeting
 
   name = gets "Hey! What is your name: "
 
-  puts "It is nice to meet you #{name}.  I am a simple calculator application.  \n
+  puts "Hi #{name}.  I am a calculator.  \n
   I can add, subtract, multiply, and divide.\n"
 
   return name
